@@ -19,7 +19,7 @@ TARGET_SPECIFIC_HEADER_PATH := device/samsung/ks01lte/include
 
 TARGET_OTA_ASSERT_DEVICE := ks01ltexx,GT-I9506,ks01lte,ks01lteskt,ks01ltektt
 
-TARGET_BOOTLOADER_BOARD_NAME := MSM8974
+TARGET_BOOTLOADER_BOARD_NAME := ks01lte
 
 # Kernel
 TARGET_KERNEL_SOURCE := kernel/samsung/ks01lte
