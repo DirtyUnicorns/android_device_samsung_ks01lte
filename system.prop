@@ -46,3 +46,6 @@ wifi.interface=wlan0
 # WFD
 persist.debug.wfd.enable=1
 persist.sys.wfd.virtual=0
+
+# DU Updater
+ro.du.updater=ks01lte
