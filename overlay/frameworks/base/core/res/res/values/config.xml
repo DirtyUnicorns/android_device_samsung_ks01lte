@@ -308,4 +308,7 @@
     <bool name="config_powerDecoupleAutoSuspendModeFromDisplay">true</bool>
     <bool name="config_powerDecoupleInteractiveModeFromDisplay">true</bool>
 
+    <!-- button brightness -->
+    <bool name="config_button_brightness_support">true</bool>
+
 </resources>

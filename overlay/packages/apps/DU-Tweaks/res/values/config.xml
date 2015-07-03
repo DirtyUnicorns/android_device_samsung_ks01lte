@@ -12,7 +12,4 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <!-- Whether device has hardware buttons -->
-    <bool name="config_has_hardware_buttons">true</bool>
-
 </resources>
